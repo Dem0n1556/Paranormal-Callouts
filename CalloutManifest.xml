@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CalloutManifest>
+  <Name>Paranormal Callouts</Name>
+  <Version>1.0.0</Version>
+  <Author>Dem0n1556</Author>
+  <Description>A collection of supernatural and paranormal-themed callouts for LSPDFR</Description>
+  
+  <Callouts>
+    <Callout>
+      <Name>The Vanishing Bride</Name>
+      <Description>A driver reports nearly hitting a woman in a wedding dress on the roadside. When he stops to help, she vanishes.</Description>
+      <ScriptName>VanishingBride</ScriptName>
+      <MinimumPlayers>1</MinimumPlayers>
+      <DispatchCode>10-31 (Investigate Ghost)</DispatchCode>
+    </Callout>
+    
+    <Callout>
+      <Name>Bigfoot Sighting</Name>
+      <Description>A hiker reports seeing a large, hairy creature matching the description of Bigfoot in the surrounding wilderness.</Description>
+      <ScriptName>BigfootSighting</ScriptName>
+      <MinimumPlayers>1</MinimumPlayers>
+      <DispatchCode>10-32 (Investigate Creature)</DispatchCode>
+    </Callout>
+    
+    <Callout>
+      <Name>Sandy Shores Screams</Name>
+      <Description>Anonymous reports of disturbing screams coming from the abandoned Sandy Shores hotel. Investigate the source.</Description>
+      <ScriptName>SandyShorresScreams</ScriptName>
+      <MinimumPlayers>1</MinimumPlayers>
+      <DispatchCode>10-33 (Investigate Disturbance)</DispatchCode>
+    </Callout>
+  </Callouts>
+</CalloutManifest>
